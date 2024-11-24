@@ -1,0 +1,7 @@
+tests
+src/**/*.test.ts
+lib
+**/*.cjs
+**/*.mjs
+examples
+docs
